@@ -1,5 +1,5 @@
 "use client";
-import PostOwnner from "./components/PostOwnner";
+import PostOwnner from "../components/PostOwnner";
 
 export default function Home() {
   return (
